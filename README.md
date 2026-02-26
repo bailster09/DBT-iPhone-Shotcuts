@@ -1,208 +1,155 @@
-DBT Shortcuts – Installation Guide
+# 📱 DBT Shortcuts
 
-This repository contains downloadable DBT (Dialectical Behavior Therapy) Shortcuts for iPhone.
+A collection of downloadable **DBT (Dialectical Behavior Therapy) iPhone Shortcuts** designed to provide fast, structured access to DBT skills directly from your Home Screen.
 
-These shortcuts are designed to provide:
+These shortcuts are built to make skills:
+- Immediate
+- Simple
+- Structured
+- Accessible during overwhelm
 
-Structured emotional check-ins
+---
 
-Crisis tools
+## 📋 Requirements
 
-Distress tolerance exercises
+- iPhone running **iOS 16 or later**
+- Apple **Shortcuts** app (preinstalled on iOS)
+- Internet connection (for initial download)
 
-Emotion regulation guidance
+---
 
-Quick DBT skill access from your Home Screen
+# 🚀 Installation Guide
 
-🔹 Requirements
+Follow these steps for each shortcut you want to install.
 
-iPhone running iOS 16 or later
+## 1️⃣ Download the Shortcut
 
-Apple Shortcuts app (preinstalled on iOS)
+1. Open this GitHub repository on your **iPhone**.
+2. Tap the `.shortcut` file you want to install.
+3. Tap **Download**.
+4. Tap **Open in Shortcuts**.
+5. Scroll to the bottom.
+6. Tap **Add Shortcut**.
 
-Internet connection (for initial download)
+The shortcut will now appear in your **Shortcuts Library**.
 
-🚀 How to Install a DBT Shortcut
+---
 
-Follow these steps for each shortcut you want to install:
+## ⚠️ If You See “Untrusted Shortcut”
 
-1️⃣ Download the Shortcut
+If your iPhone blocks installation:
 
-Open this GitHub repository on your iPhone.
+1. Open **Settings**
+2. Go to **Privacy & Security**
+3. Tap **Shortcuts**
+4. Enable **Allow Untrusted Shortcuts**
+5. Try opening the file again
 
-Tap the .shortcut file you want to install.
+> Note: You may need to run at least one shortcut before this option appears.
 
-Tap Download.
+---
 
-Tap Open in Shortcuts when prompted.
+# 📲 Add to Home Screen (App-Style Icon)
 
-Scroll to the bottom.
+To use the shortcut like a standalone app:
 
-Tap Add Shortcut.
-
-The shortcut will now appear in your Shortcuts Library.
-
-⚠️ If You See “Untrusted Shortcut” Error
-
-If your iPhone blocks the shortcut:
-
-Open Settings
-
-Go to Privacy & Security
-
-Tap Shortcuts
-
-Enable Allow Untrusted Shortcuts
-
-Return and try opening the file again
-
-You may need to run at least one shortcut manually before this setting appears.
-
-📲 Add a DBT Shortcut to Your Home Screen (App Icon Style)
-
-To make a shortcut function like a standalone app:
-
-Open the Shortcuts app.
-
-Find the DBT shortcut.
-
-Tap the three dots (•••).
-
-Tap the Share icon (square with arrow).
-
-Select Add to Home Screen.
-
-Rename it if desired.
-
-Tap Add.
+1. Open the **Shortcuts** app.
+2. Tap the **three dots (•••)** on the shortcut.
+3. Tap the **Share icon** (square with arrow).
+4. Select **Add to Home Screen**.
+5. Rename if desired.
+6. Tap **Add**.
 
 You’ll now see it as an icon on your Home Screen.
 
-🧩 Add a DBT Shortcut as a Widget
+---
 
-For fast access without opening the Shortcuts app:
+# 🧩 Add as a Widget
 
-Go to your Home Screen.
+To access your shortcut quickly:
 
-Press and hold on an empty space.
+1. Press and hold on your Home Screen.
+2. Tap the **+** in the top-left corner.
+3. Search for **Shortcuts**.
+4. Choose a widget size:
+   - Small (1 shortcut)
+   - Medium (multiple shortcuts)
+5. Tap **Add Widget**.
+6. Press and hold the widget.
+7. Tap **Edit Widget**.
+8. Select your DBT shortcut.
 
-Tap the + (top left corner).
+---
 
-Search for Shortcuts.
-
-Choose a widget size:
-
-Small (1 shortcut)
-
-Medium (multiple shortcuts)
-
-Tap Add Widget.
-
-Press and hold the widget.
-
-Tap Edit Widget.
-
-Select your DBT shortcut.
-
-Now you can launch it directly from your Home Screen.
-
-🎨 Optional: Customize Name & Icon
+# 🎨 Customize Name & Icon
 
 Inside the Shortcuts app:
 
-Tap the shortcut.
+1. Tap the shortcut.
+2. Tap the arrow next to the name.
+3. Choose:
+   - Rename
+   - Change Icon
+   - Change Color
 
-Tap the arrow next to the name.
+You can customize icons for different DBT skills (Distress Tolerance, Check-In, Crisis Plan, etc.).
 
-Choose:
+---
 
-Rename
+# 🛠 Troubleshooting
 
-Change Icon
+### The shortcut won’t run properly
+- Make sure permissions are enabled.
+- Run it manually once before using the widget.
 
-Change Color
+### The widget doesn’t show the shortcut
+- Restart your phone.
+- Remove and re-add the widget.
 
-You can customize each DBT shortcut for different skills (Distress Tolerance, Check-In, Crisis Plan, etc.).
+---
 
-🛠 Troubleshooting
-Shortcut opens but doesn’t run properly
+# 🐛 Reporting an Issue
 
-Make sure all required permissions are enabled
+If you experience a problem:
 
-Run it manually once before using the widget
+1. Go to the **Issues** tab in this repository.
+2. Click **New Issue**.
+3. Include:
+   - The name of the shortcut
+   - What you expected to happen
+   - What actually happened
+   - Your iOS version (if known)
+   - Screenshots (if possible)
 
-Widget doesn’t show the shortcut
+Clear details help resolve issues faster.
 
-Restart your phone
+---
 
-Remove and re-add the widget
-
-🐛 Reporting Issues
-
-If something isn’t working correctly:
-
-Go to the Issues tab in this GitHub repository.
-
-Click New Issue.
-
-Include:
-
-The name of the shortcut
-
-What you expected to happen
-
-What actually happened
-
-iOS version (if known)
-
-Screenshots (if possible)
-
-Clear details help fix problems faster.
-
-💡 Requesting a Feature
+# 💡 Request a Feature
 
 Have an idea for improvement?
 
-Go to the Issues tab.
+1. Go to the **Issues** tab.
+2. Click **New Issue**.
+3. Title it:
 
-Click New Issue.
+   Feature Request – [Short Description]
 
-Title it: Feature Request – [Your Idea]
+4. Include:
+   - What you’d like added
+   - Why it would be helpful
+   - Any suggested flow or design ideas
 
-Include:
+All DBT-related skill ideas are welcome.
 
-What skill or functionality you’d like added
+---
 
-Why it would be helpful
+# ❤️ Purpose
 
-Any specific flow or design suggestions
+These shortcuts are designed to make DBT skills easier to access during stress, overwhelm, or crisis.
 
-All DBT skill ideas are welcome.
+Use what helps. Install what you need.
 
-❤️ About DBT Shortcuts
+---
 
-These shortcuts are designed to make DBT skills:
-
-Immediate
-
-Structured
-
-Accessible during overwhelm
-
-Easy to use without thinking
-
-You can install one or all depending on your needs.
-
-If you found this helpful, feel free to ⭐ the repository.
-
-If you'd like, I can also:
-
-Add a Contribution section
-
-Add a License section
-
-Add GitHub badges
-
-Format this like a polished open-source project
-
-Just tell me the vibe you want — clean & clinical, developer-style, or mental health friendly.
+If this project helps you, consider ⭐ starring the repository.
