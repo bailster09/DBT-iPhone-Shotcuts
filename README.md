@@ -14,7 +14,7 @@ These shortcuts are built to make skills:
 
 - iPhone running **iOS 16 or later**
 - Apple **Shortcuts** app (preinstalled on iOS)
-- Internet connection (for initial download)
+- Safari browser (recommended for downloading)
 
 ---
 
@@ -22,14 +22,25 @@ These shortcuts are built to make skills:
 
 Follow these steps for each shortcut you want to install.
 
-## 1️⃣ Download the Shortcut
+---
 
-1. Open this GitHub repository on your **iPhone**.
+## 1️⃣ Download the Shortcut from GitHub
+
+1. Open this GitHub repository on your **iPhone using Safari**.
 2. Tap the `.shortcut` file you want to install.
-3. Tap **Download**.
-4. Tap **Open in Shortcuts**.
-5. Scroll to the bottom.
-6. Tap **Add Shortcut**.
+3. Tap the **three dots (•••) in the top-right corner** of the file page.
+4. Tap **Download**.
+
+---
+
+## 2️⃣ Open the Downloaded File
+
+1. After downloading, tap the **Download icon** in Safari  
+   (located next to the URL/search bar at the bottom of the screen).
+2. Tap the downloaded `.shortcut` file.
+3. It will automatically open in the **Shortcuts app**.
+4. Scroll to the bottom.
+5. Tap **Add Shortcut**.
 
 The shortcut will now appear in your **Shortcuts Library**.
 
@@ -43,7 +54,7 @@ If your iPhone blocks installation:
 2. Go to **Privacy & Security**
 3. Tap **Shortcuts**
 4. Enable **Allow Untrusted Shortcuts**
-5. Try opening the file again
+5. Try opening the downloaded file again
 
 > Note: You may need to run at least one shortcut before this option appears.
 
@@ -78,21 +89,6 @@ To access your shortcut quickly:
 6. Press and hold the widget.
 7. Tap **Edit Widget**.
 8. Select your DBT shortcut.
-
----
-
-# 🎨 Customize Name & Icon
-
-Inside the Shortcuts app:
-
-1. Tap the shortcut.
-2. Tap the arrow next to the name.
-3. Choose:
-   - Rename
-   - Change Icon
-   - Change Color
-
-You can customize icons for different DBT skills (Distress Tolerance, Check-In, Crisis Plan, etc.).
 
 ---
 
@@ -153,4 +149,3 @@ Use what helps. Install what you need.
 ---
 
 If this project helps you, consider ⭐ starring the repository.
-**** Coming Soon - Emotion Reg and Mindfulness
